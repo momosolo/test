@@ -1,2 +1,1 @@
-test
-aaa
+#include <stdio.h>
